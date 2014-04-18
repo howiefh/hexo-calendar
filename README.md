@@ -1,5 +1,5 @@
 # Calendar
-Get current month calendar for hexo theme [Landscape-F](https://github.com/howiefh/hexo-theme-landscape-f)
+Hexo helper plugin. Display current month calendar for hexo theme [Landscape-F](https://github.com/howiefh/hexo-theme-landscape-f)
 
 ## install
 Execute the following command.
