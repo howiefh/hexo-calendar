@@ -1,0 +1,24 @@
+{
+  "name": "hexo-calendar",
+  "version": "0.0.1",
+  "description": "Get Current month calendar",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/howiefh/hexo-calendar.git"
+  },
+  "keywords": [
+    "calendar",
+    "hexo"
+  ],
+  "author": {
+    "name": "howiefh",
+    "email": "howiefh@gmail.com",
+    "url": "http://howiefh.github.io/"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "node-segment": "*"
+  },
+  "readmeFilename": "README.md"
+}
