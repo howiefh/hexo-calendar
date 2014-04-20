@@ -17,8 +17,5 @@
     "url": "http://howiefh.github.io/"
   },
   "license": "BSD",
-  "dependencies": {
-    "node-segment": "*"
-  },
   "readmeFilename": "README.md"
 }
