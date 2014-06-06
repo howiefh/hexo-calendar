@@ -11,5 +11,5 @@ npm install git://github.com/howiefh/hexo-calendar.git
 Add the following content in the _config.yml
 ```
 plugins:
-- hexo-summarizer
+- hexo-calendar
 ```
