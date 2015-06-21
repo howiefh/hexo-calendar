@@ -2,7 +2,7 @@ exports.current_month_calendar = function(options) {
   // 获取文章发布的时间
   var now = new Date(this.page.date);
   var c_year = now.getFullYear();
-  var c_month = now.getMonth()+1;
+  var c_month = now.getMonth();
 
   var posts = this.site.posts,
     root = this.config.root,
